@@ -1,2 +1,2 @@
 # Blackjack
-text-based blackjack game with advanced play features
+Basic text-based blackjack game with advanced play features
